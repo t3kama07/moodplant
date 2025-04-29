@@ -1,15 +1,41 @@
+# Android Studio & IntelliJ
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+.idea/
+.gradle/
 local.properties
+
+# Android-specific files
+/build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+
+# Jetpack Compose preview cache
+**/.cache/
+
+# Signing files
+signing.properties
+*.jks
+*.keystore
+
+# Firebase & Google Services
+google-services.json
+firebase-appindexing.json
+
+# Logs, OS, temp files
+*.log
+*.hprof
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java build artifacts
+*.class
+*.kt~
+*.kts~
+
+# Misc
+*.swp
