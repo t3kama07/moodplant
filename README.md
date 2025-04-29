@@ -18,9 +18,8 @@
 ## 📸 Screenshots
 
 
-![image](https://github.com/user-attachments/assets/1d097533-0190-4b68-a33a-5a1fcab16424)
-![image](https://github.com/user-attachments/assets/0b03abdc-0229-471c-be79-8c17146b2c47)
-![image](https://github.com/user-attachments/assets/a1cd86d3-3ba4-4770-bd5a-2b60cad76883)
+![image](https://github.com/user-attachments/assets/35c86067-5dce-42ac-9caf-cad1364ba058)
+
 
 
 ---
